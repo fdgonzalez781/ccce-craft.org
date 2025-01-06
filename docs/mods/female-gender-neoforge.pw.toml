@@ -1,0 +1,13 @@
+name = "Female Gender Mod (NeoForge)"
+filename = "Female-Gender-Mod-neoforge-1.21-3.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f2e4027d0943c04700173a97c88aaebb1f1777ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5579007
+project-id = 481655

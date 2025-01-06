@@ -1,0 +1,13 @@
+name = "Traveler's Titles (NeoForge)"
+filename = "TravelersTitles-1.21.1-NeoForge-5.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "75c8daaaf6f8bcf28441b174490bed7331edbe4d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5812594
+project-id = 1015155
