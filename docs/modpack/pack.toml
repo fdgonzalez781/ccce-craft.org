@@ -4,13 +4,10 @@ version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
-file = "modpack/index.toml"
+file = "index.toml"
 hash-format = "sha256"
 hash = "0ec37484b0402fe6c4167c458c21b4c6fe925ab0d8b1e58c31d7e744efb8d5f7"
 
 [versions]
 minecraft = "1.21.1"
 neoforge = "21.1.93"
-
-[options]
-meta-folder-base = "modpack"
