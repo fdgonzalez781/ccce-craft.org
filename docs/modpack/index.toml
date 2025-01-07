@@ -112,11 +112,6 @@ hash = "e1646cf433abe533dce054c680d225391d3926296657ac8965cba50fbd3b7218"
 metafile = true
 
 [[files]]
-file = "mods/immersive-portals-for-forge.pw.toml"
-hash = "5d5ffcf3195dfd82167424c1b30a0c60460a434a406ba906fe47005a8572a8ce"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "e2565b5d04fd1157bc97dcac1da9dbd30f2d322be24e2f6ca1f05475ba3aeb18"
 metafile = true
