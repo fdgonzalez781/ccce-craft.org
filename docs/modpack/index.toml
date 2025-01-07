@@ -230,7 +230,3 @@ metafile = true
 file = "mods/yungs-better-strongholds-neoforge.pw.toml"
 hash = "7a4c5666b0592f4d4ae3ffdb79f365a64fd53cb0de496ae125fb4b88630d32dc"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "b413f956bc58160dd4828b9ad12ad76c50e5168df6a5975d316316952009373c"
