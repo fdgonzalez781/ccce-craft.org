@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/accessories-tc-layer.pw.toml"
+hash = "bd5d617d5a7517e54f375299d0a81179d0be35c83f832564be314da581024bce"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "af57e1714dc6207107cb91bac93599e3a7b88cfbcce6763b398692c3fdb20c6d"
+metafile = true
+
+[[files]]
 file = "mods/aether-1.21.1-1.5.1-neoforge.jar"
 hash = "7c315f314d1868bf767243fae5bc0ca7316edeb7b30dfe724096b2f7dd8d1169"
 
@@ -50,6 +60,11 @@ hash = "e2d7440117ec3b09686f4ca910dc3338153215eeb8214574553c5744d284b3d5"
 [[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "179ec97bb6d278f2012c725fdfab2c5b00adb529e4f720587ce6c3409aaa572f"
+metafile = true
+
+[[files]]
+file = "mods/custom-paintings-mod.pw.toml"
+hash = "4c0649651e43163e171ff8282f11d3e877e53ed8bf4a7689a1674e7bb80c3bb4"
 metafile = true
 
 [[files]]
@@ -137,11 +152,6 @@ hash = "c39f473bc613a79aaf8717ced14f9e081451118cd53521ac5d6e6cdd469a3f59"
 metafile = true
 
 [[files]]
-file = "mods/ore-harvester.pw.toml"
-hash = "ba2a027fa491bf699902c246017aa936e28838b6438e9e6e3b8b464d48b82a27"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "4e907f6a193bd141cf0a0012fc3655b1e1b390b72f938cce01cec1327a13a0e5"
 metafile = true
@@ -189,11 +199,6 @@ metafile = true
 [[files]]
 file = "mods/travelers-titles-neoforge.pw.toml"
 hash = "45a38f15e6810ff75e3756bc5673fe5cc336099070049699eafaee04f2fae6af"
-metafile = true
-
-[[files]]
-file = "mods/trinkets.pw.toml"
-hash = "7b5e8074a47ad6a9e453a29853bb1527906ae0ced0d714fcd386c75ef1f0f00a"
 metafile = true
 
 [[files]]
