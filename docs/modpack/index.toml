@@ -83,6 +83,16 @@ hash = "8bba135cc6b6a7c70216e312e319016b618ab4e825ec7937ea6107cab637226a"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "3a4e194e945214cc457178f48e65b9ab6a8201b6d15b9736cd673324b70b6edd"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "65cd00e90de065e99d13352fd5d8aa3bc28d062b9dc935cf1da914a2047b2208"
+metafile = true
+
+[[files]]
 file = "mods/etherology.pw.toml"
 hash = "2b2563d9924f0f0580540887400b13b0ba741f1bf483809d522f9921d9a4355a"
 metafile = true
