@@ -137,6 +137,11 @@ hash = "e1646cf433abe533dce054c680d225391d3926296657ac8965cba50fbd3b7218"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "976a897717e0cab6212b0bf2537a7edadf7e684ea288c178d21290a88e3f517e"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "e2565b5d04fd1157bc97dcac1da9dbd30f2d322be24e2f6ca1f05475ba3aeb18"
 metafile = true
@@ -198,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "8060272fe07b2506170b23077472468be6cf87b4593ad42e16a22e1f1ab69769"
+hash = "9050cb92f35f8057726ec547ba3306726a1a4f3b5ed0d147b70d2dc30dcff582"
 metafile = true
 
 [[files]]
