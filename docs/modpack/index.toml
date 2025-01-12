@@ -202,11 +202,6 @@ hash = "0d162e18a8010861a674d6cd76780a8298d0a2d11514c8cfb0fd78bdd65a7e68"
 metafile = true
 
 [[files]]
-file = "mods/saddle.pw.toml"
-hash = "ab35d472be5731e45dd3319a276d9dfb09ba53848b6377b5d93b37b7da1e65f0"
-metafile = true
-
-[[files]]
 file = "mods/selene.pw.toml"
 hash = "0993f7e7eec5160e0eeb9253a9f15f228031ec4036aaa39e558922a33a74a161"
 metafile = true
