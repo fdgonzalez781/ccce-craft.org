@@ -3,9 +3,9 @@ filename = "custompaintings-3.0.0+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ypw1upV6/versions/Q4w53L2C/custompaintings-3.0.0%2B1.21.jar"
+url = "https://github.com/fdgonzalez781/mc-fabric-custom-paintings/releases/download/3.0.0%2B1.21.1/custompaintings-3.0.0+1.21.jar"
 hash-format = "sha512"
-hash = "a5e1d8e034c4989a6b5f8483109fd38995fcbb5c9568f79a852f16bcc27272aa49252f3deb667284da96601b2268afb1885aa33e3160f34b9037fef89f3759b4"
+hash = "21b039d38af5c8f47ecca954815dda36179573c57efa145175fcb122292471074b405470fb829834798979325768f825ddf62c6de67e852a9015db3c9feaf9c9"
 
 [update]
 [update.modrinth]
