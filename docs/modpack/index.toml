@@ -152,6 +152,16 @@ hash = "e776d14fca80de704085732b1ee05702e9062ad2fa16b5b2a6f3e75096e901e9"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "bbd37762427bd1b7f51cefa138dbcf9eaaa26280a03bc1deb88a155a048a1236"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "3f9d1ecfaa349aa057cf2496b5a5135336209b74ac078ac7806abd4e66da2f78"
+metafile = true
+
+[[files]]
 file = "mods/mekanism.pw.toml"
 hash = "5145c7f731914e9c9e53b7c6833af134bbd6d46e59c7cdcb8a3cab2bb2547d85"
 metafile = true
@@ -189,6 +199,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "0d162e18a8010861a674d6cd76780a8298d0a2d11514c8cfb0fd78bdd65a7e68"
+metafile = true
+
+[[files]]
+file = "mods/saddle.pw.toml"
+hash = "ab35d472be5731e45dd3319a276d9dfb09ba53848b6377b5d93b37b7da1e65f0"
 metafile = true
 
 [[files]]
