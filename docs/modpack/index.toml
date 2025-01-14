@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-paintings-mod.pw.toml"
-hash = "bdf5f795673564b2943e3bb5c6f5447bc31b4e5c09d705894352355f86a94e6d"
+hash = "f6dc891a94ec254f220a2db74b6799c76067b86c6079397ca748936015511e70"
 metafile = true
 
 [[files]]
