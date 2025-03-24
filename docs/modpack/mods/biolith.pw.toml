@@ -1,6 +1,6 @@
 name = "Biolith"
 filename = "biolith-neoforge-3.0.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/iGEl6Crx/versions/5P2awS2z/biolith-neoforge-3.0.1.jar"
