@@ -8,3 +8,4 @@ Gemfile.lock
 *.mrpack
 node_modules/
 .astro/
+dist/
