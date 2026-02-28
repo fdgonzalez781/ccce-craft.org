@@ -6,3 +6,4 @@ Gemfile.lock
 [._]*.un~
 *.zip
 *.mrpack
+node_modules/
