@@ -1,0 +1,393 @@
+[
+    {
+        "authors": [
+            "Blodhgarm, chyzman, Dr.Zeal"
+        ],
+        "name": "Accessories",
+        "version": "1.1.0-beta.21+1.21.1"
+    },
+    {
+        "authors": [
+            "Blodhgarm"
+        ],
+        "name": "Accessories Trinkets Compat Layer",
+        "version": "3.10.0+beta.19"
+    },
+    {
+        "authors": [
+            "Uncandango"
+        ],
+        "name": "All The Leaks",
+        "version": "0.1.9-beta+1.21.1-neoforge"
+    },
+    {
+        "authors": [
+            "Estecka"
+        ],
+        "name": "Allay, behave !",
+        "url": "https://modrinth.com/mod/allay-behave",
+        "version": "1.3.3+1.21"
+    },
+    {
+        "authors": [
+            "TeamAppliedEnergistics"
+        ],
+        "name": "Applied Energistics 2",
+        "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2",
+        "version": "19.1.2-beta"
+    },
+    {
+        "authors": [
+            "ramidzkh"
+        ],
+        "name": "Applied Mekanistics",
+        "url": "https://github.com/AppliedEnergistics/Applied-Mekanistics#readme",
+        "version": "1.6.2"
+    },
+    {
+        "authors": [
+            "TerraformersMC, gniftygnome"
+        ],
+        "name": "Biolith",
+        "url": "https://modrinth.com/mod/biolith",
+        "version": "3.0.1"
+    },
+    {
+        "authors": [
+            "UpcraftLP",
+            "Pyrofab"
+        ],
+        "name": "Cardinal Components API",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/cardinal-components",
+        "version": "6.1.1"
+    },
+    {
+        "authors": [
+            "shedaniel"
+        ],
+        "name": "Cloth Config v15 API",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge/",
+        "version": "15.0.140"
+    },
+    {
+        "authors": [
+            "Rick South"
+        ],
+        "name": "Collective",
+        "url": "https://serilum.com/mod/collective",
+        "version": "7.87"
+    },
+    {
+        "authors": [
+            "Su5eD"
+        ],
+        "name": "Connector Extras",
+        "url": "https://github.com/Sinytra/ConnectorExtras",
+        "version": "1.12.1+1.21.1"
+    },
+    {
+        "authors": [
+            "Roundaround"
+        ],
+        "name": "Custom Paintings",
+        "url": "https://modrinth.com/mod/custom-paintings-mod",
+        "version": "3.0.1"
+    },
+    {
+        "authors": [
+            "Emi"
+        ],
+        "name": "EMI",
+        "version": "1.1.18+1.21.1+neoforge"
+    },
+    {
+        "authors": [
+            "unascribed"
+        ],
+        "name": "Ears",
+        "url": "https://ears.unascribed.com/",
+        "version": "1.4.6"
+    },
+    {
+        "authors": [
+            "Fuzs"
+        ],
+        "name": "Easy Magic",
+        "url": "https://github.com/Fuzss/easymagic",
+        "version": "21.1.0"
+    },
+    {
+        "authors": [
+            "Traben"
+        ],
+        "name": "Entity Model Features",
+        "version": "2.4.1"
+    },
+    {
+        "authors": [
+            "Traben"
+        ],
+        "name": "Entity Texture Features",
+        "version": "6.2.9"
+    },
+    {
+        "authors": [
+            "Faradey",
+            "Feytox"
+        ],
+        "name": "Etherology",
+        "url": "https://modrinth.com/mod/etherology",
+        "version": "1.21-0.1.7"
+    },
+    {
+        "authors": [
+            "CrimsonDawn45"
+        ],
+        "name": "Fabric Shield Lib",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/fabric-shield-lib",
+        "version": "1.7.2-1.21.1"
+    },
+    {
+        "authors": [
+            "vectorwing"
+        ],
+        "name": "Farmer's Delight",
+        "url": "https://github.com/vectorwing/FarmersDelight",
+        "version": "1.2.6"
+    },
+    {
+        "authors": [
+            "malte0811"
+        ],
+        "name": "Ferrite Core",
+        "version": "7.0.2"
+    },
+    {
+        "authors": [
+            "Sinytra, FabricMC"
+        ],
+        "name": "Forgified Fabric API",
+        "url": "https://github.com/Sinytra/ForgifiedFabricAPI",
+        "version": "0.107.0+2.0.22+1.21.1"
+    },
+    {
+        "authors": [
+            "MrCrayfish"
+        ],
+        "name": "Framework",
+        "url": "https://mrcrayfish.com/mods?id=framework",
+        "version": "0.9.4"
+    },
+    {
+        "authors": [
+            "Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin"
+        ],
+        "name": "GeckoLib 4",
+        "url": "http://geckolib.com/",
+        "version": "4.7.5.1"
+    },
+    {
+        "authors": [
+            "coderbot, IMS212"
+        ],
+        "name": "Iris",
+        "version": "1.8.1+mc1.21.1"
+    },
+    {
+        "authors": [
+            "2No2Name, JellySquid"
+        ],
+        "name": "Lithium",
+        "version": "0.14.3-snapshot+mc1.21.1-build.92"
+    },
+    {
+        "authors": [
+            "Sketch Macaw & Peachy Macaw"
+        ],
+        "name": "Macaw's Windows",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/macaws-windows",
+        "version": "2.3.2"
+    },
+    {
+        "authors": [
+            "Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd"
+        ],
+        "name": "Mekanism",
+        "url": "https://aidancbrady.com/mekanism/",
+        "version": "10.7.8"
+    },
+    {
+        "authors": [
+            "Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd"
+        ],
+        "name": "Mekanism: Generators",
+        "url": "https://aidancbrady.com/mekanism/",
+        "version": "10.7.8"
+    },
+    {
+        "authors": [
+            "Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd"
+        ],
+        "name": "Mekanism: Tools",
+        "url": "https://aidancbrady.com/mekanism/",
+        "version": "10.7.8"
+    },
+    {
+        "authors": [
+            "HttpRafa, Contributers"
+        ],
+        "name": "Modflared",
+        "version": "1.2.2+release.65"
+    },
+    {
+        "authors": [
+            "MehVahdJukaar"
+        ],
+        "name": "Moonlight Lib",
+        "version": "1.21-2.17.12"
+    },
+    {
+        "authors": [
+            "MrCrayfish"
+        ],
+        "name": "MrCrayfish's Furniture Mod: Refurbished",
+        "url": "https://mrcrayfish.com/mods/furniture_refurbished",
+        "version": "1.0.8"
+    },
+    {
+        "authors": [
+            "Steveplays28"
+        ],
+        "name": "Noisium",
+        "url": "https://github.com/Steveplays28/noisium",
+        "version": "2.3.0+mc1.21-1.21.1"
+    },
+    {
+        "authors": [
+            "PigCart"
+        ],
+        "name": "Particle Rain",
+        "version": "3.0.5"
+    },
+    {
+        "authors": [
+            "Apehum"
+        ],
+        "name": "Plasmo Voice",
+        "url": "https://github.com/plasmoapp/plasmo-voice",
+        "version": "2.1.3"
+    },
+    {
+        "authors": [
+            "Fuzs"
+        ],
+        "name": "Puzzles Lib",
+        "url": "https://github.com/Fuzss/puzzleslib",
+        "version": "21.1.24"
+    },
+    {
+        "name": "Resourcefulconfig",
+        "version": "3.0.8"
+    },
+    {
+        "authors": [
+            "JellySquid (jellysquid3), IMS212"
+        ],
+        "name": "Sodium",
+        "version": "0.6.5+mc1.21.1"
+    },
+    {
+        "authors": [
+            "TelepathicGrunt"
+        ],
+        "name": "Structure Layout Optimizer",
+        "url": "https://www.curseforge.com/projects/1087831",
+        "version": "1.0.6"
+    },
+    {
+        "authors": [
+            "AlphaMode, baguchi, bconlon, Blodhgarm, Burning Cactus, Drullkus, Hugo Payn, Jaryt, Oscar Payn, quek, Raptor, reetam, RENREN, sunsette"
+        ],
+        "name": "The Aether",
+        "url": "https://modrinth.com/mod/aether",
+        "version": "1.5.1"
+    },
+    {
+        "authors": [
+            "YUNGNICKYOUNG"
+        ],
+        "name": "Traveler's Titles",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/travelers-titles-neoforge",
+        "version": "1.21.1-NeoForge-5.1.1"
+    },
+    {
+        "authors": [
+            "WildfireRomeo"
+        ],
+        "name": "Wildfire's Female Gender Mod",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/female-gender-forge",
+        "version": "3.2.2"
+    },
+    {
+        "authors": [
+            "xaero96"
+        ],
+        "name": "Xaero's Minimap",
+        "version": "25.2.0"
+    },
+    {
+        "authors": [
+            "YUNGNICKYOUNG"
+        ],
+        "name": "YUNG's API",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-api-neoforge",
+        "version": "1.21.1-NeoForge-5.1.3"
+    },
+    {
+        "authors": [
+            "YUNGNICKYOUNG, Acarii"
+        ],
+        "name": "YUNG's Better Dungeons",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-neoforge",
+        "version": "1.21.1-NeoForge-5.1.4"
+    },
+    {
+        "authors": [
+            "YUNGNICKYOUNG, Acarii"
+        ],
+        "name": "YUNG's Better End Island",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island-neoforge",
+        "version": "1.21.1-NeoForge-3.1.1"
+    },
+    {
+        "authors": [
+            "YUNGNICKYOUNG"
+        ],
+        "name": "YUNG's Better Mineshafts",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-neoforge",
+        "version": "1.21.1-NeoForge-5.1.1"
+    },
+    {
+        "authors": [
+            "YUNGNICKYOUNG, Acarii"
+        ],
+        "name": "YUNG's Better Nether Fortresses",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses-neoforge",
+        "version": "1.21.1-NeoForge-3.1.3"
+    },
+    {
+        "authors": [
+            "YUNGNICKYOUNG, Acarii"
+        ],
+        "name": "YUNG's Better Strongholds",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-neoforge",
+        "version": "1.21.1-NeoForge-5.1.2"
+    },
+    {
+        "authors": [
+            "glisco, Blodhgarm, BasiqueEvangelist, Noaaan"
+        ],
+        "name": "oωo",
+        "version": "0.12.15.1-beta.2+1.21"
+    }
+]

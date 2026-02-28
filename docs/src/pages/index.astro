@@ -1,0 +1,31 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import ModList from '../components/ModList.astro'
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1 class="title">CCCE Crƒft</h1>
+			<p class="intro">
+      Welcome to CCCE Craft! CCCE Craft is a modded Minecraft server running on Minecraft 1.21.1 and NeoForge 21.1.93.
+			</p>
+			<p>
+			</p>
+			<p class="intro">Here's a list of the mods we use:</p>
+      <ModList />
+			<p>
+      Have fun! If you have any issues, or you want to add a mod to the server, reach out to an admin on the Discord server to ask questions.
+			</p>
+		</main>
+		<Footer />
+	</body>
+</html>

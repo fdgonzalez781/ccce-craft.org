@@ -1,0 +1,43 @@
+---
+import modlist from '../data/modlist.json'
+import ModCard from './ModCard.astro'
+import BgImg from '../assets/modlist-bg.png'
+import { getImage } from 'astro:assets'
+
+const bgImg = await getImage({ src: BgImg })
+
+let bgUrl = 'url(${bgImg.src})'
+---
+<ul class="modlist">
+  {modlist.map(item => (
+  <ModCard name={item.name} version={item.version} authors={item.authors} />
+  ))}
+</ul>
+<style define:vars={{ bgUrl }}>
+  .modlist {
+    position: relative;
+    list-style-type: none;
+    display: grid;
+    padding: 1em 0 1em 0;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-left: -20vw;
+    margin-right: -20vw;
+  }
+
+  .modlist::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100vw;
+    height: 100%;
+    background-image: url('/images/modlist-bg.png');
+    filter: brightness(135%) saturate(200%);
+    background-size: cover;
+    background-position: center center;
+    /*    background: #5d0c7d;
+background: linear-gradient(90deg, rgba(93, 12, 125, 1) 0%, rgba(87, 171, 199, 1) 50%, rgba(156, 255, 187, 1) 100%);*/
+    z-index: -1;
+  }
+</style>
