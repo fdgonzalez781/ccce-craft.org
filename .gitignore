@@ -7,3 +7,4 @@ Gemfile.lock
 *.zip
 *.mrpack
 node_modules/
+.astro/
